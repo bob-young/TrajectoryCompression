@@ -1,2 +1,3 @@
 # TrajectoryCompression
 Trajectory Compression
+![avatar]()
