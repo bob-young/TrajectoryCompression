@@ -1,3 +1,3 @@
 # TrajectoryCompression
 Trajectory Compression
-![avatar]()
+![avatar](https://raw.githubusercontent.com/bob-young/TrajectoryCompression/master/cmp1.png)
